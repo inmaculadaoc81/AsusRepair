@@ -139,3 +139,7 @@ header{background:#fff}.links a:hover{color:var(--asus-blue)}
 
 /* Mejorar visibilidad del botón de recogida en el hero */
 .hero .cta.pickup{border:2px solid #fff!important}
+
+/* Mayor contraste del azul sobre fondos negros */
+.services .kicker,.services .title em,.services .service-icon,.services .tag{color:#39a0ff!important}
+.services .service{border-top-color:#39a0ff!important}
