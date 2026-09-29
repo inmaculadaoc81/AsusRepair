@@ -121,3 +121,18 @@ background-size:72px 72px;color:#fff}
   .chat-window-wrapper.n8n-chat button,
   .chat-window-wrapper.n8n-chat [role="button"]{pointer-events:auto!important;}
 }
+
+/* AsusRepair — azul, negro y blanco */
+:root{--asus-blue:#0057b8;--asus-blue-dark:#003f86;--asus-black:#0a0a0a;--asus-white:#fff;--red:var(--asus-blue);--brand:var(--asus-blue);--brand-dark:var(--asus-blue-dark)}
+header{background:#fff}.links a:hover{color:var(--asus-blue)}
+.navcall,.maplink,.benefit-icon,.card-icon,.service-icon,.tag,.tick i,.submit{background:var(--asus-blue)!important;color:#fff!important}
+.navcall:hover,.maplink:hover,.submit:hover{background:var(--asus-black)!important}
+.hero{background:#06182d!important;background-image:radial-gradient(circle at 18% 20%,rgba(0,87,184,.45),transparent 32%),linear-gradient(145deg,#07366d 0%,#041b35 42%,#050505 100%)!important;color:#fff}
+.hero:before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(150deg,transparent 0 22%,rgba(0,119,255,.14) 22.2% 22.6%,transparent 22.8% 56%,rgba(0,119,255,.10) 56.2% 56.5%,transparent 56.7%);opacity:.8}
+.hero .eyebrow{background:var(--asus-blue)!important;border-color:var(--asus-blue)!important;color:#fff!important}
+.info{border-top-color:var(--asus-blue)!important}.info .kicker,.kicker,.center-kicker,.trust-title em,.how-title em,.seo-title em,.title em{color:var(--asus-blue)!important}
+.seo-title{border-left-color:var(--asus-blue)!important}.problem,.service{border-top-color:var(--asus-blue)!important}
+.art{background:linear-gradient(135deg,var(--asus-blue-dark),var(--asus-black))!important}
+.brand-mark{width:48px;height:48px;border-radius:10px;background:var(--asus-blue)!important;color:#fff;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:24px}
+.services,.reviews-card,footer{background:var(--asus-black)!important}.youtube-card{background:#ff0000!important}
+.map-wrap .maplink.lower{background:var(--asus-blue)!important;color:#fff!important}.map-wrap .maplink.lower:hover{background:var(--asus-blue-dark)!important}
