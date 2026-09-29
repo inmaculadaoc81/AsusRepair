@@ -143,3 +143,6 @@ header{background:#fff}.links a:hover{color:var(--asus-blue)}
 /* Mayor contraste del azul sobre fondos negros */
 .services .kicker,.services .title em,.services .service-icon,.services .tag{color:#39a0ff!important}
 .services .service{border-top-color:#39a0ff!important}
+
+/* Mayor contraste azul en la sección Así trabajamos */
+#proceso .kicker{color:#39a0ff!important}
