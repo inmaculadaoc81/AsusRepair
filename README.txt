@@ -1,11 +1,10 @@
-CuisinartTech | Servicio Técnico Reparación de batidoras Cuisinart
+AsusRepair | Servicio Técnico Asus
 
-Sitio web de CuisinartTech, servicio técnico independiente especializado en diagnóstico y reparación de batidoras y pequeños electrodomésticos Cuisinart.
+Sitio web de AsusRepair, servicio técnico independiente especializado en diagnóstico y reparación de ordenadores y portátiles Asus.
 
-Web: https://tecnicoelectrodomesticos.com.es/
-Taller: C. de Joaquín María López, 26, Chamberí, 28015 Madrid.
-Teléfono: +34 914 46 85 03
+Web: https://serviciotecnicodeordenadores.es/
+Teléfono: +34 918 29 46 56
 WhatsApp: +34 649 97 01 28
-Google Business: https://maps.app.goo.gl/JxWqqZd2v1CxcXhj9
+Dirección: C. de Joaquín María López, 26, Chamberí, 28015 Madrid
 
-Servicio técnico independiente. No reparamos equipos con garantía del fabricante.
+Diagnóstico gratuito en taller. Presupuesto previo a la reparación.
